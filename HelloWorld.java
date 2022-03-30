@@ -3,6 +3,8 @@ public class HelloWorld{
 	{
 		
 	System.out.println("HelloWorld!");
+	System.out.println(20*30*40);
+	
 	}
 
 }
